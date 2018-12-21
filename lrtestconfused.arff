@@ -1,0 +1,17 @@
+@relation lrtestconfused
+
+@attribute temp numeric
+@attribute icecreamsales numeric
+
+@data
+15.3,10
+12.3,90
+24,30
+30.3,500
+33.3,40
+25.3,25
+20,15
+21,10
+22,12
+23,18
+24,50

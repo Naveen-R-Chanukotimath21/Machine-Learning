@@ -1,0 +1,15 @@
+outlook temp humid wind play
+sunny hot high weak N
+sunny hot high strong N
+overcast hot high weak Y
+rain mild high weak Y
+rain cool normal weak Y
+rain cool normal strong N
+overcast mild high strong Y
+sunny mild high weak N
+sunny cool normal weak Y
+rain mild normal weak Y
+sunny mild normal strong Y
+overcast hot normal weak Y
+overcast cool normal strong yes
+rain mild high strong no
